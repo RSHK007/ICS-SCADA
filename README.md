@@ -6,9 +6,11 @@
 3)integrity -- data tampering <br>
 4)availability -- DOS, DDOs<br>
 
+</br>
 Authorization: access control purpose <br>
 windows : SID (security identifier) <br>
 UNIX: Uid  (User Identifier) <br>
+</br>
 <b> Different types of access control </b>
 1)DAC: Discretionary access control -- concept of different user with different privileges </br>
 2)MAC: Mandatory access control -- Higher level of protection is avaiable where a owner cannot also change the permissions </br>
