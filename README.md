@@ -31,5 +31,48 @@ LEVEL- 2- Area supervisory control: this level is where process cell or line-lev
 for local control over individual areas of a process </br>
 LEVEL 1 - BASIC control: This level compromises what is known as the Basic Process Control Systems, or BPCSs. BPCS is a generic term applying to non-safety-related control systems </br>
 LEVEL 0 - process: equipment under control. Physical euipment controlled by level-1 are located here. These include drives, motors, valves, and sensors other components that comprise the actual process </br>
+
+
+PLCs were invented by Dick Morley in 1964</br>
+Ladder logic is the PLC programming language </br>
+The people or the organization that sets the standards for ladder logic is PLCOpen. This simply means that ladder logic is described in a standard. That standard is called IEC 61131-3 </br>
+
+Four typical security postures</br>
+1)deny all (paranoid)</br>
+2)allow all (promiscuous)</br>
+3)deny the things i know (permissive)</br>
+4)Allow the things i know (prudent)</br>
+
+Prudent approach is followed in most cases </br>
+
+Risk is exposure to the chance of damage or loss</br>
+RISK= severity*threat*value </br>
+• Severity: maximum impact of an exploited vulnerability</br>
+• Threat: likelihood of being attacked </br>
+• Value: cost of loss if compromised</br>
+
+Two types of risk:
+</br>
+1)risk appetite
+</br>
+Company cannot accept any risk 
+</br>
+2)risk tolerance 
+</br>
+Company can accept risk upto certain point
+</br>
+
+Two factors to mitigate risk:</br>    
+1)policies and procedures -- ask user not to do it</br>
+2)Technology -- It enforces user to follow policies </br>
+
+Residual risk - carrying the risk </br>
+
+
+
+
+</br>
+
+
 </html>
 
