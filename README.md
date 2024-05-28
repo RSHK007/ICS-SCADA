@@ -68,10 +68,42 @@ Two factors to mitigate risk:</br>
 
 Residual risk - carrying the risk </br>
 
+ICS SCADA generations</br>
+1)first generation - monolithic</br>
+2)Second generation - distributed</br>
+3)Third generation - Networked</br>
+4)fourth generation - Cloud</br>
+
+**Threat** -  A threat is any circumstance or event with the potential to adversely impact organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, or the Nation through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service</br>
+
+**Threat source** - Threats have some intent or method that may exploit a vulnerability through either intentional or unintentional means, this intent or method is referred to as the threat source</br>
+
+**Vulnerability** -  A vulnerability is a weakness in an information system (including an ICS), system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source</br>
+
+**Threat event** - A threat event is an event or situation that has the potential for causing undesirable consequences or impact</br>
+
+Predisposing conditions are properties of the organization, mission/business process, architecture, or information systems that contribute to the likelihood of a threat event </br>
+
+SP 800-53 contains a taxonomy of security controls, or countermeasures, to mitigate vulnerabilities and predisposing conditions</br>
 
 
+**MODBUS -502**: The Modbus packet frame can be broken down into two sections: the Application Data Unit (ADU) and the Protocol Data Unit (PDU). The ADU consists of the Address, PDU, and an Error Checking method. The PDU is composed of the function code and the data sections of the Modbus frame.</br>
 
+**Ethernet/IP** : etherNet/IP is more modern than Modbus, it still has security issues that leave the protocol open to attack. EtherNet/IP is typically found running over TCP and UDP ports 44818. However, there is another port that EtherNet/IP utilizes—TCP and UDP port 2222. The reason for this port is that EtherNet/IP has implemented implicit and explicit messaging.</br>
+
+**DNP3**:  DNP3 is typically found on the standard TCP port 20000</br>
+
+PLC7 (S7) attacked by struxnet worm</br>
+
+ BACnet is an ASHARE standard, number 135.1, and is maintained by ASHARE. The BACnet protocol has defined services that allow building devices to communicate with each other
 </br>
+
+
+SCADA/ICS Risk Assessment Process includes three (3) stages</br>
+1)Asset Identification and System Characterization </br>
+2)Vulnerability Identification and Threat Modelling </br>
+3)Risk Calculation and Management</br>
+
 
 
 </html>
