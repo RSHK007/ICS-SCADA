@@ -112,5 +112,33 @@ tcp.flags.push==1
 
 <h1>Module-2 - TCP/IP-101</h1>
 
+internet started in 1987. 
+internet protocols 
+1)IP
+2)TCP
+3)UDP
+
+client runs on ports greater than 1023 -ephemeral 
+servers runs on ports less than 1023 -- privileged
+
+TCP - connection oriented. we get acknowledge for data received
+UDP - connectionless. No data tramission gurentee 
+
+Each packet is encapsulted with the header as it goes down and decapsulates on the server side to reach application layer
+encapsulation --
+deencapsultion -- 
+
+TCP/IP - Department of defense 
+
+switch are layer 2 devices
+routers are layer 3 devices
+802.3 ethernet and 802.5 tokenring
+protocol analysis tools
+1)wireshark
+2)omnipeek
+3)sniffer
+
+
+
 </html>
 
