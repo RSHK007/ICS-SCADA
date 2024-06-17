@@ -128,15 +128,15 @@ Each packet is encapsulted with the header as it goes down and decapsulates on t
 encapsulation --
 deencapsultion -- 
 
-TCP/IP - Department of defense 
+TCP/IP - Department of defense </br>
 
-switch are layer 2 devices
-routers are layer 3 devices
-802.3 ethernet and 802.5 tokenring
-protocol analysis tools
-1)wireshark
-2)omnipeek
-3)sniffer
+switch are layer 2 devices</br>
+routers are layer 3 devices</br>
+802.3 ethernet and 802.5 tokenring</br>
+protocol analysis tools</br>
+1)wireshark</br>
+2)omnipeek</br>
+3)sniffer</br>
 
 
 
